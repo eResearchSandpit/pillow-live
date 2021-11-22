@@ -14,7 +14,7 @@ Then when we push changes you can download them with
 git pull
 ```
 
-The dataset I used in the session is from LILA BC
+The dataset I used in the session is from [LILA BC](https://lila.science/image-access)
 
 To use the same images:
 Use [Azure Copy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10) to download sample image dataset from [LILA BC](https://lila.science/image-access)
